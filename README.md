@@ -90,3 +90,4 @@ npm run deploy
    Create React App - For the boilerplate setup.
    React Icons - For the icons used in the application.
    Design inspiration from Dribbble.
+   commit ends
